@@ -1,0 +1,12 @@
+.vs/
+Library/
+obj/
+Logs/
+UserSettings/
+*.csproj
+*.swp
+UpgradeLog*.htm
+Assets/05. Texture/*
+!Assets/05. Texture/.gitkeep
+Assets/06. Models/*
+!Assets/06. Models/.gitkeep

@@ -1,5 +1,0 @@
-* text=auto
-*.meta text eol=lf
-*.cs text eol=crlf
-*.shader text eol=lf
-*.json text eol=lf
